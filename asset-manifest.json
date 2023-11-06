@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/mortage-calculator/static/js/main.5d8a4c85.js",
+    "index.html": "/mortage-calculator/index.html",
+    "main.5d8a4c85.js.map": "/mortage-calculator/static/js/main.5d8a4c85.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5d8a4c85.js"
+  ]
+}
